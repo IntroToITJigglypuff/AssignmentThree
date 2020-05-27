@@ -1,0 +1,9 @@
+These two websites are used together for the creation of the website.
+The GitHub repository is under the jigglypuff organisation to allow all members to access, edit and upload all their content into one area for the user interface developer to easily access and keep track of the information. 
+The AWS S3 service is used to host our website and will be where the upload of the HTML and CSS will happen. 
+
+GITHUB REPOSITORY : https://github.com/IntroToITJigglypuff/AssignmentThree
+AWS SERVICE (S3) : https://s3.console.aws.amazon.com/s3/home?region=us-east-1#
+
+------------------------------------------------------------------------------
+[ADD ALL WEBSITE BIBLIOGRAPHY DOWN BELOW THIS POINT]
