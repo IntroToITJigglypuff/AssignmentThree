@@ -1,0 +1,16 @@
+Aim:
+
+The aim of this project is to create a full body mirror that can project hologram image onto the user with the chosen outfit and can change based on user control.
+The mirror would be able to track and identify a user's body and project the image of different articles of clothing chosen by the user through the use of a mobile app to allow users to try on clothing without the hassle of taking on and off clothing. 
+The mirror would have an integrated camera that would be used to track and identify the user and the individual limbs of the user as well as the user’s movements.
+The holographic projection will be implemented using a variation of HYPERVSN technology on a smaller scale to project the image of the clothing onto the user.
+
+The first goal of this project is to create a mirror with holographic projection capabilities, this can be achieved by adding the power source (10,000mAh battery) and a camera behind the two way mirror, a small computing unit with bluetooth capabilities to allow control of the hardware, and then adding the HYPERVSN Technology. This allows for the necessary hardware needed for the project to be assembled and ready to be manipulated by software to work together to achieve our final goal for the user.
+
+The second goal of the project is to create software tracking software so that the camera in the mirror can be used to locate the user’s position and feed data to the system. This will allow us to pinpoint the location of key points (Limbs) and will allow us to use this data to then create live holographic projection.
+
+The next goal will be to implement software that can control the HYPERVSN technology through the use of live tracking and 3D models chosen through the use of a mobile app (3D models developed for different items of clothing) This will allow the HYPERVSN Holographic projection to update live to create a visual image for the user when using the mirror.
+
+The next goal will be to create a mobile application that can communicate with the mirror and and allow the user to choose the clothing they would like displayed by the mirror, this would then send the selected 3D model to the computer inside the mirror to be used by the mirror in the overall process.
+
+The final goal will be to ensure all processes work together smoothly to create a satisfactory experience for the user, the mobile app will be used to select the desired clothing, this will then be sent via bluetooth to the onboard computer which will then be used by the computer in conjunction with the visual tracking software and the camera to create a live project of the clothing onto the image of the user.
