@@ -1,0 +1,25 @@
+Plans and Progress
+Hardware:
+We started by choosing hardware for our product, we decided upon a 10,000mAh battery to power the hardware within the mirror. As this will give an adequate supply of power, this will be accompanied by a Type-C USB charging port to resupply power to the battery.
+The onboard computer in our project will be the Raspberry Pi 3 as this will allow for control of the software and hardware as well as Bluetooth compatibility.
+We initially planned to use HYPERVSN Technology to create the holographic projection as this hardware is compatible with our hardware needs, although we do plan on using an upgraded version of this hardware to scale it down to be a more appropriate size for our project and massively reduce costs as this hardware is not currently at an appropriate cost to be used in the production of a middle-class consumer good.
+We will use the Raspberry Pi camera module V2 for the purpose of tracking the user’s location and movements, this allows for easy communication with the onboard Raspberry Pi 
+Tracking Software:
+We planned to create tracking software to be used in conjunction with the camera to send live data to be used to control the Augmented reality hologram created by the HYPERVSN tech. The tracking software would need to track the location of key points and their movements to be able to identify the movement of limbs as to create an accurate projection for the user.
+It is also recommended that the tracking software involves machine learning capabilities as this will allow for faster and more accurate tracking of the user, machine learning will allow for the tracking software to remember and learn measurements of certain users to track their limbs more accurately.
+Mobile Software:
+The mobile app created will be required to control the mirror , it needs to be able to send and receive data via Bluetooth to connect to the Raspberry Pi and it will store data of clothing models in an online server as to allow access to a greater storage of products and to allow a greater variety of use. The mobile app will also have the capabilities to send and receive outfit looks to and from friends of the user to allow for a social connection created by the app, encouraging more users.
+The creation of this mobile app will also require the consideration of user’s privacy and taking measures to increase the security of user data and information, this will be implemented through the use of data encryption and two factor authentication.
+The mobile app will also include a requests branch in which users will be able to request that items of clothing be added to our database for them to use with our product as to allow us to satisfy users.
+Cloud Database:
+The database for 3D models of clothing for users to try will be stored on the cloud, this database will need to have possibility for growing storage space as the data will be ever-growing to accommodate the addition of new items of clothing, the goal is to continuously add new lines of fashion to our database to have a more useful product.
+Hologram Augmented Reality Software:
+The Software for the Hologram will need to be able to take data from the tracking software and incorporate the 3D models sent to the Raspberry Pi via Bluetooth from the mobile application to then create an augmented reality in which the Hologram Software can send data to the HYPERVSN Technology to display the 3D model of clothing onto the users body, this will require the communication of several pieces of software and data inside the system to work together to create a result that is shown to the user.
+
+
+
+https://www.raspberrypi.org/products/camera-module-v2/
+https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
+https://hypervsn.com/
+https://ar-tracking.com/
+
